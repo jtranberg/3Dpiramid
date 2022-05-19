@@ -1,0 +1,3 @@
+# 3Dpiramid
+sides using singular divs...
+not using variables
